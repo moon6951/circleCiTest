@@ -4,7 +4,7 @@ import org.junit.Test;
 public class TestClass {
     @Test
     public void testName() {
-        Assert.assertEquals(1, 1);
+        Assert.assertEquals(1, 2);
     }
 
 }
